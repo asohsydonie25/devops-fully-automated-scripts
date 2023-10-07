@@ -1,0 +1,1 @@
+# devops-fully-automates-script
